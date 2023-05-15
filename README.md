@@ -1,2 +1,2 @@
-# moodle-docker
-Containerized version of Moodle
+# Moodle LMS container image
+
